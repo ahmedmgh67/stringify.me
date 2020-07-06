@@ -1,15 +1,15 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
-		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"name": "Ahmed M. Gamal",
+		"label": "Founder of DPLYR dev",
+		"picture": "https://avatars1.githubusercontent.com/u/37451499?s=96&v=4",
+		"email": "ahmedmgh67@Gmail.com",
+		"phone": "+201098349955",
+		"website": "https://ahmedgamal.ga",
+		"twitter": "https://twitter.com/ahmedmghm",
+		"facebook": "https://www.facebook.com/ahmed.m.gamal.h.m",
+		"github": "http://github.com/ahmedmgh67",
+		"summary": "Founder of DPLYR dev"
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
